@@ -1,0 +1,23 @@
+body {
+  background-color: mistyrose;
+}
+hr {
+  border-style: dotted none none;
+  height: 0px;
+  border-color: blueviolet;
+  border-width: 5px;
+  width: 10%;
+}
+img {
+  height: 150px;
+}
+h1 {
+  color: #d32777;
+}
+h3 {
+  color: #6d66bf;
+}
+h2 {
+  text-align: center;
+  color: #bf66bb;
+}
